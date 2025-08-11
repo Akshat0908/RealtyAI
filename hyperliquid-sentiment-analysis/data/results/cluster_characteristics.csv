@@ -1,0 +1,6 @@
+,total_pnl,total_pnl,win_rate,win_rate,total_trades,total_trades,avg_trade_size,avg_trade_size,avg_pnl_volatility,avg_pnl_volatility,sharpe_ratio,sharpe_ratio
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+cluster,,,,,,,,,,,,
+0,-31203.6,,0.3256,,43.0,,1613.2557,,204.6891,,-0.0718,
+1,-167621.1248,,0.4239,,92.0,,2782.6873,,254.4572,,-0.0477,
+2,-70436.1913,,0.6667,,12.0,,11057.1184,,188.4398,,-0.1756,

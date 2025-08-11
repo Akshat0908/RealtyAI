@@ -1,0 +1,6 @@
+,daily_pnl,daily_pnl,daily_pnl,win_rate,daily_volume
+,mean,std,count,mean,mean
+sentiment_binary,,,,,
+0.0,5185.1464,31224.1488,790,0.6038,756720.318
+1.0,3438.6188,17447.8636,376,0.6223,479367.189
+2.0,4176.8277,29260.948,1175,0.6434,351605.3857
