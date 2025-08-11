@@ -243,17 +243,11 @@ The analysis generates several output files:
 
 This project is developed for data science hiring assessment purposes. All code and analysis results are proprietary and confidential.
 
-## Contact
 
-For questions or support regarding this analysis:
-- **Company**: Bajarangs / PrimeTrade
-- **Email**: saami@bajarangs.com, nagasai@bajarangs.com, chetan@bajarangs.com
-- **Subject**: "Junior Data Scientist – Trader Behavior Insights"
 
 ---
 
 **Project Status**: Complete & Tested  
-**Last Updated**: August 11, 2024  
 **Analysis Version**: 1.0  
 **Python Version**: 3.8+  
 **Results**: Successfully generated with 47.05% model accuracy 
